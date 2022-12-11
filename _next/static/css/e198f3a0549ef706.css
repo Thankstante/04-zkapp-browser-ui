@@ -116,8 +116,8 @@ a {
 .Home_banner2__nEGJg { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/banner2.2b9f41a8.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 250px; height: 70px; position: 
-	absolute; left: 335px; top: 310px;
+	cover; width: 570px; height: 70px; position: 
+	absolute; left: 220px; top: 310px;
 }
 .Home_connectBtn__q4_OB { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.2936d9d2.png); 
@@ -128,14 +128,14 @@ a {
 .Home_connectBtn__q4_OB:hover { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.a0d9f5cf.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
-	absolute; left: 380px; top: 450px;
+	cover; width: 350px; height: 100px; position: 
+	absolute; left: 280px; top: 400px;
 }
 .Home_connectBtn__q4_OB:active { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/connectBtn3.1bf5af06.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
-	absolute; left: 380px; top: 450px;
+	cover; width: 350px; height: 100px; position: 
+	absolute; left: 280px; top: 400px;
 }
 .Home_loadingBtn__vAScy { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/loadingBtn.52b0c5e6.gif); 
