@@ -180,7 +180,7 @@ a {
 	absolute; left: 370px; top: 120px;
 }
 .Home_succes__k1IzW { display: block; background-image: 
-	url(/04-zkapp-browser-ui/_next/static/media/succes.f72a49a4.png); background-repeat: 
+	url(/04-zkapp-browser-ui/_next/static/media/succes.45c431cf.png); background-repeat: 
 	no-repeat; background-size: cover; width: 
 	180px; height: 180px; position: absolute; left: 
 	370px; top: 120px;
@@ -249,49 +249,49 @@ a {
 .Home_sendBtn__F6hw6 { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/sendBtn1.025433fe.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 180px; height: 73px; position: 
 	absolute; left: 250px; top: 400px;
 }
 .Home_sendBtn__F6hw6:hover { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/sendBtn2.ca758c4e.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 180px; height: 73px; position: 
 	absolute; left: 250px; top: 400px;
 }
 .Home_sendBtn__F6hw6:active { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.3da64448.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 180px; height: 73px; position: 
 	absolute; left: 250px; top: 400px;
 }
 .Home_sendBtnDisable__6VyTK { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.3da64448.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 180px; height: 73px; position: 
 	absolute; left: 250px; top: 400px;
 }
 .Home_getBtn__h_3sY { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/getBtn1.ae8e03c9.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 290px; height: 73px; position: 
 	absolute; left: 510px; top: 400px;
 }
 .Home_getBtn__h_3sY:hover { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/getBtn2.15202038.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 290px; height: 73px; position: 
 	absolute; left: 510px; top: 400px;
 }
 .Home_getBtn__h_3sY:active { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/getBtn3.1b954f2e.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 290px; height: 73px; position: 
 	absolute; left: 510px; top: 400px;
 }
 .Home_getBtnDisable__ASdt7 { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/getBtn3.1b954f2e.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
+	cover; width: 290px; height: 73px; position: 
 	absolute; left: 510px; top: 400px;
 }
 .Home_txtState__XfTmO { display: block; position: absolute; left: 
@@ -325,8 +325,8 @@ a {
 }
 .Home_getscreenBlack__Krl3p { display: block; display: flex; 
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/black.2b9f41a8.png); 
-	background-size: repeat; width: 100%; height: 
-	100%; left: 0px; top: 0px; position: absolute; 
+	background-size: repeat; width: 0px; height: 
+	0px; left: 0px; top: 0px; position: absolute; 
 	align-items: center; justify-content: center; 
 	margin-left: auto; margin-right: auto; opacity: 
 	0.5;
@@ -335,7 +335,7 @@ a {
     center;
 }
 .Home_getscreenImg__WMr9D { display: block; display: flex; 
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/screen.7387fe6b.png); 
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/screen.805a6870.png); 
 	background-repeat: no-repeat; background-size: 
 	cover; width: 380px; height: 280px; position: 
 	absolute; left: 260px; top: 150px;
@@ -366,14 +366,14 @@ a {
 .Home_closeGet__qG2td { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/closeBtn1.ed869364.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 50px; height: 52px; position: 
-	absolute; left: 590px; top: 150px;
+	cover; width: 170px; height: 62px; position: 
+	absolute; left: 380px; top: 150px;
 }
 .Home_closeGet__qG2td:hover { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/closeBtn2.dd4a9dc6.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 50px; height: 52px; position: 
-	absolute; left: 590px; top: 150px;
+	cover; width: 170px; height: 62px; position: 
+	absolute; left: 380px; top: 150px;
 }
 .Home_closeSend__b_1LB { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/closeBtn1.ed869364.png); 
