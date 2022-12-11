@@ -150,13 +150,13 @@ a {
 	absolute; left: 305px; top: 10px;
 }
 .Home_getLoading__Ml8Nf { display: block; background-image: 
-	url(/04-zkapp-browser-ui/_next/static/media/getLoading.35398b42.gif); 
+	url(/04-zkapp-browser-ui/_next/static/media/getLoading.2eabcff0.gif); 
 	background-repeat: no-repeat; background-size: 
 	cover; width: 280px; height: 280px; position: 
 	absolute; left: 315px; top: 150px;
 }
 .Home_sendLoading__Zkd01 { display: block; background-image: 
-	url(/04-zkapp-browser-ui/_next/static/media/getLoading.35398b42.gif); 
+	url(/04-zkapp-browser-ui/_next/static/media/getLoading.2eabcff0.gif); 
 	background-repeat: no-repeat; background-size: 
 	cover; width: 250px; height: 250px; position: 
 	absolute; left: 330px; top: 110px;
@@ -168,10 +168,10 @@ a {
 	top: 325px;
 }
 .Home_sendDone__abENy { display: block; background-image: 
-	url(/04-zkapp-browser-ui/_next/static/media/senddone.0b83e0bd.png); 
+	url(/04-zkapp-browser-ui/_next/static/media/senddone.459af49c.png); 
 	background-repeat: no-repeat; background-size: 
 	cover; width: 250px; height: 120px; position: 
-	absolute; left: 330px; top: 170px;
+	absolute; left: 330px; top: 200px;
 }
 .Home_caution__VEpHP { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/caution.2f02e614.png); 
@@ -348,8 +348,8 @@ a {
 }
 .Home_sendscreenBlack__x7Fq9 { display: block; display: flex; 
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/black.2b9f41a8.png); 
-	background-size: repeat; width: 100%; height: 
-	100%; left: 0px; top: 0px; position: absolute; 
+	background-size: repeat; width: 0px; height: 
+	0px; left: 0px; top: 0px; position: absolute; 
 	align-items: center; justify-content: center; 
 	margin-left: auto; margin-right: auto; opacity: 
 	0.5;
@@ -358,7 +358,7 @@ a {
     center;
 }
 .Home_sendscreenImg__5SKtV { display: block; display: flex; 
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/send.c270ee90.png); 
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/send.c2794b0f.png); 
 	background-repeat: no-repeat; background-size: 
 	cover; width: 400px; height: 330px; position: 
 	absolute; left: 250px; top: 100px;
@@ -378,14 +378,14 @@ a {
 .Home_closeSend__b_1LB { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/closeBtn1.ed869364.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 50px; height: 52px; position: 
-	absolute; left: 600px; top: 120px;
+	cover; width: 200px; height: 75px; position: 
+	absolute; left: 380px; top: 100px;
 }
 .Home_closeSend__b_1LB:hover { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/closeBtn2.dd4a9dc6.png); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 50px; height: 52px; position: 
-	absolute; left: 600px; top: 120px;
+	cover; width: 200px; height: 75px; position: 
+	absolute; left: 380px; top: 100px;
 }
 .Home_teleIcon__qLDZz { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/teleicon1.f641a4f9.png); 
