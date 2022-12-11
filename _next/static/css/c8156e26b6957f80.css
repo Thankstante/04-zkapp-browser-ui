@@ -140,14 +140,14 @@ a {
 .Home_loadingBtn__vAScy { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/loadingBtn.a4d11f12.gif); 
 	background-repeat: no-repeat; background-size: 
-	cover; width: 160px; height: 73px; position: 
-	absolute; left: 380px; top: 450px;
+	cover; width: 300px; height: 73px; position: 
+	absolute; left: 290px; top: 450px;
 }
 .Home_loading__IsZ5F { display: block; background-image: 
-	url(/04-zkapp-browser-ui/_next/static/media/loading.46e0445c.gif); 
+	url(/04-zkapp-browser-ui/_next/static/media/loading.2eabcff0.gif); 
 	background-repeat: no-repeat; background-size: 
 	cover; width: 300px; height: 300px; position: 
-	absolute; left: 305px; top: 50px;
+	absolute; left: 305px; top: 10px;
 }
 .Home_getLoading__Ml8Nf { display: block; background-image: 
 	url(/04-zkapp-browser-ui/_next/static/media/getLoading.35398b42.gif); 
